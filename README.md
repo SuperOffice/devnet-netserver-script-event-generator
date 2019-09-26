@@ -71,4 +71,13 @@ namespace NetServerScriptClass
 
 Applications like [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview) (Run As Administrator) can be used to monitor the real-time output.
 
+![Output](/assets/images/FilterHighlights.PNG)
+
+---
+
+![Output](/assets/images/DebugViewCaptureMenu.png)
+
+
+---
+
 ![Output](/assets/images/NetServerScriptDebugOutput.PNG)
