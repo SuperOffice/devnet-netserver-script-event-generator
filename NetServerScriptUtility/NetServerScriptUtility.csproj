@@ -2,11 +2,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net48</TargetFramework>
+    <TargetFramework>net80</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="SuperOffice.ContinuousDatabase" Version="8.4.7038.15" />
-    <PackageReference Include="SuperOffice.NetServer.Core" Version="8.4.7038.15" />
-    <PackageReference Include="SuperOffice.NetServer.Services" Version="8.4.7038.15" />
+    <PackageReference Include="SuperOffice.ContinuousDatabase" Version="10.3.11.910" />
+    <PackageReference Include="SuperOffice.NetServer.Core" Version="10.3.11.910" />
+    <PackageReference Include="SuperOffice.NetServer.Services" Version="10.3.11.910" />
   </ItemGroup>
 </Project>
